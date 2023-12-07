@@ -1,2 +1,2 @@
 # SpikeCloud
-A SoundCloud Downloader and Player
+SpikeCloud based on SoundCloud
