@@ -1,2 +1,2 @@
 # SpikeCloud
-SpikeCloud based on SoundCloud
+SpikeCloud based on SoundCloud for Android 
